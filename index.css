@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.h1{
+    color: rgb(29, 179, 179);
+}
+.h2{
+   background-color: rgb(87, 197, 180);
+    color: rgb(41, 48, 48);
+    border-radius: 2em;
+    height: 100px;
+    width: 150px;
+}
